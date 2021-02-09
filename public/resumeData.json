@@ -1,0 +1,96 @@
+{
+  "main": {
+    "name":"Danielle Wisen",
+    "description":"MERN Stack Web Development Engineer",
+    "image":"profilepicture.jfif",
+    "bio":"Hello there! Coming from a background in English teaching and writing I am looking to establish myself as a detail-oriented developer. I am eager to contribute my expertise and develop new skills. If you are looking for someone who is open to new opportunities and excited to learn, please contact me!",
+    "contactmessage":"If you are looking for someone who is open to new opportunities and excited to learn, please email me at daniellewwise@gmail.com",
+    "email": "daniellewwise@gmail.com",
+    "github":"https://github.com/dawisen",
+    "project":"https://github.com/dawisen?tab=repositories",
+    "address":{
+      "street":"",
+      "city":"Raleigh",
+      "state":"North Carolina",
+      "zip": "27606"
+    },
+    "website": "http://www.timbakerdev.com",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/daniellewisen1/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/dawisen",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"University of North Carolina at Chapel Hill",
+        "degree":"Certificate in Web Development",
+        "graduated":"February 2021",
+        "description":"Attended the UNC Chapel Hill Full-Stack Coding Boot Camp. Through this certificate program I gained the ability and knowledge to build dynamic web applications. Skills Gained include: HTML, CSS, JavaScript, jQuery, Responsive Design, BootStrap, Handlebars, Cookies, Local Storage, React.js, Heroku, Git, MySQL, Sequelize, MongoDB, Node.js, Express, Security and Session Storage, User Authentication, MERN Stack, QA, and Semantic HTML."
+      },
+      {
+        "school":"North Carolina State University",
+        "degree":"Bachelor of Arts in English",
+        "graduated":"May 2018",
+        "description":""
+      }
+    ],
+    "work":[
+      {
+        "company":"Japan Exchange and Teaching (JET) Program",
+        "title":"Assistant Language Teacher",
+        "years":"July 2018 - December 2020",
+        "description":"Served as a cultural ambassador between the United States and Japan. Co-led an educational workshop for teachers on different learning methods of students. Engaged in local international exchange activities."
+      }
+    ],
+    "skills":[
+      {
+        "name":"JavaScript",
+        "level":"90%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"60%"
+      },
+      {
+        "name":"JQuery",
+        "level":"60%"
+      },
+      {
+        "name":"CSS",
+        "level":"79%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Employee Directory",
+        "category":"Employee Directory is a React application that allows users to display employee information and dynamically update the directory with data from a connected API or database.",
+        "image":"employee-directory.png",
+        "url":"https://github.com/dawisen/employee-directory"
+      },
+      {
+        "title":"Work Scheduler",
+        "category":"This project utilizes Moment.js and local storage allowing users to save work tasks in their browser window.",
+        "image":"scheduler.png",
+        "url":"https://github.com/dawisen/Work-Scheduler"
+      },
+      {
+        "title":"Food & Flick",
+        "category":"Collaborative project integrating the OMDb and Spoonacular APIs to create a responsive, single-page website that helps you choose a movie to watch and a meal to cook at home.",
+        "image":"food-flick.png",
+        "url":"https://github.com/johndexteriv/foodflick"
+      }
+    ]
+  }
+}
