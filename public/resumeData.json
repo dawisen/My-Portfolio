@@ -88,7 +88,7 @@
       {
         "title":"Food & Flick",
         "category":"Collaborative project integrating the OMDb and Spoonacular APIs to create a responsive, single-page website that helps you choose a movie to watch and a meal to cook at home.",
-        "image":"food-flick.png",
+        "image":"foodFlick.png",
         "url":"https://github.com/johndexteriv/foodflick"
       }
     ]
