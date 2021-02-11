@@ -58,16 +58,20 @@
         "level":"90%"
       },
       {
+        "name":"HTML",
+        "level":"90%"
+      },      
+      {
+        "name":"CSS",
+        "level":"80%"
+      },
+      {
         "name":"ReactJs",
         "level":"60%"
       },
       {
         "name":"JQuery",
         "level":"60%"
-      },
-      {
-        "name":"CSS",
-        "level":"79%"
       }
     ]
   },
