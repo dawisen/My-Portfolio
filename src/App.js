@@ -8,6 +8,7 @@ import Resume from './Components/Resume';
 import Portfolio from './Components/Portfolio';
 import ParticleBG from './Components/tsParticles';
 import Contact from './Components/Contact'
+import data from './resumeData.json'
 class App extends Component {
 
   constructor(props){
@@ -23,18 +24,19 @@ class App extends Component {
   }
 
   getResumeData(){
-    $.ajax({
-      url:'./resumeData.json',
-      dataType:'json',
-      cache: false,
-      success: function(data){
-        this.setState({resumeData: data});
-      }.bind(this),
-      error: function(xhr, status, err){
-        console.log(err);
-        alert(err);
-      }
-    });
+    // $.ajax({
+    //   url:'./resumeData.json',
+    //   dataType:'json',
+    //   cache: false,
+    //   success: function(data){
+    //     this.setState({resumeData: data});
+    //   }.bind(this),
+    //   error: function(xhr, status, err){
+    //     console.log('CANT GET JSON DATA', err);
+    //     alert(err);
+    //   }
+    // });
+    this.setState({ resumeData: data });
   }
 
   componentDidMount(){

@@ -29,7 +29,7 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"",
     "education":[
       {
         "school":"University of North Carolina at Chapel Hill",
@@ -80,20 +80,23 @@
       {
         "title":"Employee Directory",
         "category":"Employee Directory is a React application that allows users to display employee information and dynamically update the directory with data from a connected API or database.",
-        "image":"employee-directory.png",
-        "url":"https://github.com/dawisen/employee-directory"
+        "image":"https://github.com/dawisen/employee-directory/raw/main/employee-directory-screenshot.png",
+        "url":"https://github.com/dawisen/employee-directory",
+        "deploy":"https://dawisen.github.io/employee-directory/"
       },
       {
         "title":"Work Scheduler",
         "category":"This project utilizes Moment.js and local storage allowing users to save work tasks in their browser window.",
-        "image":"scheduler.png",
-        "url":"https://github.com/dawisen/Work-Scheduler"
+        "image":"https://github.com/dawisen/Work-Scheduler/raw/main/screenshot.png",
+        "url":"https://github.com/dawisen/Work-Scheduler",
+        "deploy":"https://dawisen.github.io/Work-Scheduler/"
       },
       {
         "title":"Food & Flick",
         "category":"Collaborative project integrating the OMDb and Spoonacular APIs to create a responsive, single-page website that helps you choose a movie to watch and a meal to cook at home.",
-        "image":"foodFlick.png",
-        "url":"https://github.com/johndexteriv/foodflick"
+        "image":"https://github.com/johndexteriv/foodflick/raw/main/FoodFlickScreenShot.png",
+        "url":"https://github.com/johndexteriv/foodflick",
+        "deploy":"https://johndexteriv.github.io/foodflick/"
       }
     ]
   }
